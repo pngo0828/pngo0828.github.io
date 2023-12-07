@@ -1,6 +1,6 @@
 **Welcome to Paige's AOS C111/204 final project!**
 
-
+**Student Grade Prediction Based on Different Variables**
 
 Here is a [link to my report](assets/FinalProject_Report_C111.pdf).
 
