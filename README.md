@@ -1,4 +1,4 @@
-**Welcome to Paige's AOS C111/204 final project!**
+**Welcome to Paige's Machine Learning for Physical Sciences Final Project!**
 
 **Student Grade Prediction Based on Different Variables**
 
